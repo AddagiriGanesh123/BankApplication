@@ -1,2 +1,5 @@
 this is the galary page as well.
 and also we can edit the page as well.. 
+
+
+edited after the creation of new branh called feature.
